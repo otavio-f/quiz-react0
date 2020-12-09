@@ -1,0 +1,38 @@
+.title {
+  text-align: center;
+  color: #8aabff;
+}
+
+.question-display {
+  background: #FCF3B0;
+  margin: 20px 20%;
+  padding: 10px;
+  border: solid 2px #6980ec;
+  border-radius: 25px;
+}
+
+.question {
+  font-weight: bold;
+  text-align: center;
+}
+
+.answers {
+  text-align: center;
+}
+
+.question-choice {
+  height: 5em;
+  width: 10em;
+  background: #a2d7ff;
+  border: solid 2px #6980ec;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+.result-correct {
+  color: green;
+}
+
+.result-incorrect {
+  color: red;
+}
